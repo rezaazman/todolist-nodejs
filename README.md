@@ -16,4 +16,5 @@ npm install
 * [Pug](https://pugjs.org/api/getting-started.html)
 * [MongoDB](https://www.mongodb.com/)
 
-
+## LISENSI
+MIT
