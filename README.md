@@ -5,13 +5,15 @@ Aplikasi todolist sederhana menggunakan NodeJS, Express, Pug, dan MongoDB. Terba
 ```
 npm install
 ```
-## Credit 
-1. Reza
-2. Dian
-3. Tegar
+## Telegram
+* @rezaaaaazman
+* @Dianhendra
+* @tegarjgap
 
 ## Dokumentasi
 * [NodeJS](https://nodejs.org/en/)
 * [Express](https://expressjs.com/)
 * [Pug](https://pugjs.org/api/getting-started.html)
 * [MongoDB](https://www.mongodb.com/)
+
+
